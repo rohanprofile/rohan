@@ -41,5 +41,6 @@ img {
 }
 iframe{  
   display: block;
+  padding: 20px 0;
   margin: 0 auto;
 }
